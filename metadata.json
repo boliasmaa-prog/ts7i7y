@@ -1,0 +1,10 @@
+{
+  "name": "Remix TashihAI - تصحيح أوراق الامتحانات",
+  "description": "تطبيق ذكي للأستاذ لتصحيح أوراق إجابات التلاميذ بخط اليد باللغتين العربية والفرنسية، وإدارة الأقسام، وحساب المعدلات وتصدير كشوف النقاط إلى Excel.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
